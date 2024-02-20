@@ -1,14 +1,16 @@
-<body>
+
   
 <h2 align="center">Navigating the pathways to innovation</h2>
-<div style="
-  vertical-align: middle;
-  ">
-  <img  src="https://github.com/jaypabua/jaypabua/blob/main/bggit.gif">
-</div>
+<p align="center">
+  <img src="https://github.com/jaypabua/jaypabua/blob/main/bggit.gif" alt="Description of image">
+</p>
 
-  ## REACH ME AT
-<div>
+ ###
+
+<h2 align="middle">REACH ME AT</h2>
+
+###
+<div align="middle">
   
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/806134787630170164)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lowelljaypabua@gmail.com)
@@ -17,11 +19,11 @@
 
 ###
 
-<h2 align="left">CODE WITH</h2>
+<h2 align="middle">CODE WITH</h2>
 
 ###
 
-<div align="left">
+<div align="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -33,4 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
 </div>
-</body>
+
